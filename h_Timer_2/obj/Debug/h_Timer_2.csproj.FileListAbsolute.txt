@@ -1,0 +1,11 @@
+D:\XYZ\projects\h_Timer_2\h_Timer_2\bin\Debug\h_Timer_2.exe.config
+D:\XYZ\projects\h_Timer_2\h_Timer_2\bin\Debug\h_Timer_2.exe
+D:\XYZ\projects\h_Timer_2\h_Timer_2\bin\Debug\h_Timer_2.pdb
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.csprojAssemblyReference.cache
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.Form1.resources
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.Properties.Resources.resources
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.csproj.GenerateResource.cache
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.csproj.CoreCompileInputs.cache
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.exe
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.pdb
+D:\XYZ\projects\h_Timer_2\h_Timer_2\obj\Debug\h_Timer_2.Form2.resources
